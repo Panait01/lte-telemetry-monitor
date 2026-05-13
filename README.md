@@ -60,4 +60,5 @@ Se probó con endpoints y formatos de telemetría estilo HS4
 La compatibilidad puede cambiar según chipset, firmware y versión de la API
 El soporte GPS depende del navegador y requiere acceso local a http://localhost:8766
 Esta herramienta es experimental y está pensada solo para análisis y visualización
+<img width="1915" height="881" alt="image" src="https://github.com/user-attachments/assets/dccdff53-af13-4866-b7f2-555e7b1730ec" />
 
